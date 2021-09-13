@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\praveenvarma\onedrive\documents\desktop\psuc-lab.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1628482599 source:c:\users\praveenvarma\onedrive\documents\desktop\psuc-lab.c\test1.c
+	<stdio.h>
+	<stdlib.h>
+
